@@ -21,4 +21,4 @@ This lab simulates a production network environment using the following open-sou
 3. Run the Python automation script: `python3 multi_router.py`
 
 ## 📸 Dashboard Proof
-*(When you upload the screenshot later, it goes here)*
+<img width="1515" height="817" alt="image" src="https://github.com/user-attachments/assets/b2a1c1e7-e225-48b0-84c9-f7429d5ba824" />
